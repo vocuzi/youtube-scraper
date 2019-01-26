@@ -1,4 +1,4 @@
-# Instagram Scraper
+# Youtube Scraper
 
 Uses Youtube APIs to retrieve daily updates and thumbnails from Youtube Channels.
 
